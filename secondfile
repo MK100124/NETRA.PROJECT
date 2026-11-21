@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <meta name = "viewport" content="width =device=width,intial-scale=1.0"/>
+        <title>Document</title>
+    </head>
+    <body>
+        <h1>welcome to git installation</h1>
+        <ol>
+            <li>Download git from official website
+            </li>
+            <li>Run the installer and follow the setup instruction</li>
+            <code> git --version</code><li>
+        </ol>
+    </body>
+</html>
